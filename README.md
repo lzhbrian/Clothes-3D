@@ -48,11 +48,16 @@ __Content__
     
     <img width="50%" src="source/image-20191206174448259-5625488.png" style="display: block; margin-left: auto; margin-right: auto; ">
 
+* ##### DeepHuman: 3D Human Reconstruction from a Single Image
+    https://arxiv.org/abs/1903.06473
+    
+    <img width="50%" src="source/image-20191207212958137-5725398.png" style="display: block; margin-left: auto; margin-right: auto; ">
+    
 * ##### 3DPeople: Modeling the Geometry of Dressed Humans
     https://arxiv.org/abs/1904.04571
     
     <img width="50%" src="source/image-20191206180922736-5626962.png" style="display: block; margin-left: auto; margin-right: auto; ">
-
+    
 * ##### Learning to Reconstruct People in Clothing from a Single RGB Camera
     https://arxiv.org/abs/1903.05885
     
@@ -74,7 +79,7 @@ __Content__
 
 
 * ##### SMPL: A Skinned Multi-Person Linear Model
-    
+  
     https://dl.acm.org/citation.cfm?doid=2816795.2818013 (2015)
     
     <img width="50%" src="source/image-20191206185100224-5629460.png" style="display: block; margin-left: auto; margin-right: auto; ">
