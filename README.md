@@ -8,6 +8,7 @@ __Content__
 
 * [Clothes](#clothes)
 * [Body](#body)
+* [Softwares](#softwares)
 
 
 
@@ -68,6 +69,11 @@ __Content__
     
     <img width="50%" src="source/image-20191206174604603-5625564.png" style="display: block; margin-left: auto; margin-right: auto; ">
 
+* ##### DeepWrinkles: Accurate and Realistic Clothing Modeling
+    https://arxiv.org/abs/1808.03417
+    
+    <img width="50%" src="source/image-20191214161319240-6311199.png" style="display: block; margin-left: auto; margin-right: auto; ">
+
 * ##### Learning a Shared Shape Space for Multimodal Garment Design
     https://arxiv.org/abs/1806.11335
     
@@ -83,6 +89,12 @@ __Content__
     https://dl.acm.org/citation.cfm?doid=2816795.2818013 (2015)
     
     <img width="50%" src="source/image-20191206185100224-5629460.png" style="display: block; margin-left: auto; margin-right: auto; ">
+
+
+
+## Softwares
+* [Blender](https://www.blender.org/)
+* [Clo3d](https://www.clo3d.com/)
 
 
 
