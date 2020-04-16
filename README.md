@@ -10,6 +10,10 @@ __Content__
 * [Body](#body)
 * [Softwares](#softwares)
 
+## To be classified
+* Learning to Transfer Texture from Clothing Images to 3D Humans. https://arxiv.org/abs/2003.02050
+* TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style. https://arxiv.org/abs/2003.04583
+* Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images. https://arxiv.org/abs/2003.12753
 
 
 ## Clothes
